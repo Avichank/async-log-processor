@@ -1,0 +1,6 @@
+2023-10-01 12:00:00 INFO: Application started
+2023-10-01 12:01:00 ERROR: Failed to connect to database
+2023-10-01 12:02:00 DEBUG: User session created
+2023-10-01 12:03:00 WARN: High memory usage detected
+2023-10-01 12:04:00 FATAL: Critical error, shutting down
+2023-10-01 12:05:00 PANIC: Unexpected error in main loop

@@ -1,0 +1,6 @@
+2023-10-01 13:00:00 INFO: Backup process started
+2023-10-01 13:01:00 ERROR: File not found: backup.tar.gz
+2023-10-01 13:02:00 DEBUG: Backup completed successfully
+2023-10-01 13:03:00 WARN: Low disk space on /var
+2023-10-01 13:04:00 FATAL: Backup failed, system unstable
+2023-10-01 13:05:00 PANIC: Unable to recover from backup failure

@@ -1,0 +1,6 @@
+2023-10-01 14:00:00 INFO: New user registered: Alice
+2023-10-01 14:01:00 ERROR: Invalid password attempt for user Alice
+2023-10-01 14:02:00 DEBUG: User Alice logged in
+2023-10-01 14:03:00 WARN: Multiple failed login attempts for user Bob
+2023-10-01 14:04:00 FATAL: Security breach detected
+2023-10-01 14:05:00 PANIC: Emergency shutdown initiated
